@@ -7,8 +7,8 @@
 I'm a passionate programmer exploring **Pygame & algorithmic problem-solving**.  
 I enjoy building projects that enhance my skills and contribute to real-world applications.  
 
-🔹 **Currently Learning:** Godot, Unity, and Blender for game development.  
-🔹 **Testing Knowledge:** Basic familiarity with `pytest` for writing better test cases.  
+🔹 **Interested to Learn:** Godot, Unity, and Blender for game development.  
+🔹 **Testing Knowledge:** Basic familiarity with pytest for writing better test cases.
 
 ### 🎨 Frontend Note  
 I have contributed to frontend projects but do **not** have in-depth knowledge of HTML, CSS, or JavaScript.  
