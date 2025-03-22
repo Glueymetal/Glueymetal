@@ -1,80 +1,81 @@
-# 👋 Hello, I'm Jeyashree Muthukumaran (Glueymetal)!
+# 👋 Jeyashree Muthukumaran (Glueymetal)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate programmer exploring **Pygame & algorithmic problem-solving**.  
-I enjoy building projects that enhance my skills and contribute to real-world applications.  
+🎓 **Undergraduate Computer Science Student**
 
-🔹 **Interested to Learn:** Godot, Unity, and Blender for game development.  
-🔹 **Testing Knowledge:** Basic familiarity with pytest for writing better test cases.
+As a **Undergraduate Computer Science Student**, I have experience in database management, algorithmic problem-solving, and software optimization.**. I enjoy crafting efficient solutions that enhance performance and scalability in real-world applications.
 
-### 🎨 Frontend Note  
-I have contributed to frontend projects but do **not** have in-depth knowledge of HTML, CSS, or JavaScript.  
-My contribution was limited to using **Node.js** and **Tailwind CSS** for styling.
+🔹 **Learning Focus:** Exploring new tools and technologies to enhance software development skills, including **Godot, Unity, and Blender**.\
+🔹 **Testing Knowledge:** Basic familiarity with **pytest** for writing effective test cases.
+
+### 💻 Technical Expertise
+
+I focus on **database optimization and algorithmic problem-solving** to build efficient software solutions. My key areas of expertise include:
+- **Database indexing & query optimization** for better performance.
+- **Algorithmic problem-solving** to enhance computational efficiency.
+
+My frontend experience is limited to **Node.js and Tailwind CSS** for UI styling and responsiveness.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks  
-- **Python** (CLI, Game Development, Automation)  
-- **C** (System Programming)  
-- **SQL** (SQLite with indexing for fast lookups)  
-- **Node.js & Tailwind CSS** (Basic usage for frontend contributions)  
+### Programming Languages
+- **Python** (Automation, Game Development)
+- **C** (Efficient System-Level Programming, Performance Optimization)
+- **SQL** (Database Management & Query Optimization)
 
-### Tools & Technologies  
-- **Git & GitHub**  
-- **pytest** (Basic testing knowledge)  
-- **Pygame** (Game Development)  
-- **SQLite** (Database Management)  
-- **WSL** (Windows Subsystem for Linux)  
-
----
-
-## 🔥 Projects  
-
-### 📌 Restaurant Management System  
-- **Tech:** SQLite (Database Management)  
-- A database-driven system built with **SQLite**, optimized with indexing for fast lookups.  
-- Manages restaurant operations like orders and inventory.  
-- **Note:** This project does *not* include sales analytics.  
-
-### 🚀 Space Shooter Game  
-- **Tech:** Pygame  
-- A **2D space shooter game** where players control a spaceship to destroy incoming meteors.  
-- Implemented shooting mechanics, enemy movement, collision detection, and sound effects.  
-- Created as my **first Pygame project** while learning game development.  
-
-### 🧩 Jumbled Words Game  
-- **Tech:** Python (CLI)  
-- A command-line **word puzzle game** where users unscramble words from different categories.  
-- Features **three difficulty modes** with different word sets and scoring systems.  
-- Uses **randomization and error handling** to enhance the user experience.  
-
-### 🌿 Farm-to-Table Project (Frontend Contribution)  
-- **Tech:** Node.js & Tailwind CSS  
-- Contributed to the frontend development of a **platform connecting farmers directly to consumers**.  
-- Worked on UI enhancements and **responsive design**.  
-
-### ❤️ IoT-Based Heart Rate Monitoring System (IoT Contribution)  
-- **Tech:** IoT Components & Data Transmission  
-- Assisted in the development and **integration of IoT components** for a heart rate monitoring system.  
+### Development Tools & Frameworks
+- **Node.js & Tailwind CSS** (Basic Frontend Contributions)
+- **Git & GitHub** (Version Control & Collaboration)
+- **pytest** (Unit & Integration Testing)
+- **Pygame** (Game Development & Algorithm Visualization)
+- **SQLite** (Database Indexing & Optimization)
+- **WSL** (Linux Environment on Windows)
 
 ---
 
-## 📫 Connect with Me  
+## 🔥 Projects
 
-📌 **LinkedIn:** [LinkedIn](www.linkedin.com/in/jeyashree-muthukumaran)  
-📌 **GitHub:** [GitHub](https://github.com/Glueymetal)  
+Here are some of the key projects I have worked on, showcasing my expertise in database management and problem-solving.
 
-Let's **Build and Innovate Together!** 🚀  
+### 📌 Restaurant Management System
+
+- **Tech:** SQLite (Database Management)
+- A **database-driven application** that efficiently handles restaurant operations such as order processing and inventory management. Optimized **SQLite indexing** ensures **fast query execution and scalability**.
+
+### 🚀 Space Shooter Game
+
+- **Tech:** Pygame
+- A **Python-based interactive game** featuring **shooting mechanics, dynamic object movement, and collision detection**. Developed to explore **real-time game logic and performance optimization**.
+
+### 🧩 Jumbled Words Game
+
+- **Tech:** Python (CLI)
+- A **terminal-based word puzzle game** where players unscramble words from different categories. Implemented **difficulty-based logic, randomization, and robust error handling** to enhance user experience.
+
+### 🌿 Farm-to-Table Project (Frontend Contribution)
+
+- **Tech:** Node.js & Tailwind CSS
+- Worked on **UI improvements** for a platform connecting farmers directly with consumers, improving **accessibility, design consistency, and mobile responsiveness** using Tailwind CSS.
+
+### ❤️ IoT-Based Heart Rate Monitoring System (IoT Contribution)
+
+- **Tech:** IoT Components & Data Transmission
+- Participated in **IoT hardware integration and data transmission** for a real-time heart rate monitoring system, ensuring **accurate readings and seamless connectivity**.
 
 ---
 
-### 🎉 Fun Fact  
-The first computer game ever made, **Spacewar!**, was developed in **1962** on a **DEC PDP-1** computer! 🎮  
+## 📫 Connect with Me
+
+📌 **LinkedIn:** [LinkedIn](www.linkedin.com/in/jeyashree-muthukumaran)\
+📌 **GitHub:** [GitHub](https://github.com/Glueymetal)
+
+Let's **collaborate and innovate together!** 🚀
+
 
 
 
