@@ -6,16 +6,16 @@
 
 🎓 **Undergraduate Computer Science Student**
 
-As a **Undergraduate Computer Science Student**, I have experience in database management, algorithmic problem-solving, and software optimization.**. I enjoy crafting efficient solutions that enhance performance and scalability in real-world applications.
+As a **Undergraduate Computer Science Student**, I have experience in algorithmic problem-solving, database management, and software optimization. I enjoy crafting efficient solutions that enhance performance and scalability in real-world applications.
 
 🔹 **Learning Focus:** Exploring new tools and technologies to enhance software development skills, including **Godot, Unity, and Blender**.\
 🔹 **Testing Knowledge:** Basic familiarity with **pytest** for writing effective test cases.
 
 ### 💻 Technical Expertise
 
-I focus on **database optimization and algorithmic problem-solving** to build efficient software solutions. My key areas of expertise include:
-- **Database indexing & query optimization** for better performance.
+I focus on **algorithmic problem-solving and database optimization** to build efficient software solutions. My key areas of expertise include:
 - **Algorithmic problem-solving** to enhance computational efficiency.
+- **Database indexing & query optimization** for better performance.
 
 My frontend experience is limited to **Node.js and Tailwind CSS** for UI styling and responsiveness.
 
@@ -24,16 +24,16 @@ My frontend experience is limited to **Node.js and Tailwind CSS** for UI styling
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-- **Python** (Automation, Game Development)
 - **C** (Efficient System-Level Programming, Performance Optimization)
+- **Python** (Automation, Game Development)
 - **SQL** (Database Management & Query Optimization)
 
 ### Development Tools & Frameworks
-- **Node.js & Tailwind CSS** (Basic Frontend Contributions)
 - **Git & GitHub** (Version Control & Collaboration)
+- **Node.js & Tailwind CSS** (Basic Frontend Contributions)
+- **SQLite** (Database Indexing & Optimization)
 - **pytest** (Unit & Integration Testing)
 - **Pygame** (Game Development & Algorithm Visualization)
-- **SQLite** (Database Indexing & Optimization)
 - **WSL** (Linux Environment on Windows)
 
 ---
@@ -45,7 +45,7 @@ Here are some of the key projects I have worked on, showcasing my expertise in d
 ### 📌 Restaurant Management System
 
 - **Tech:** SQLite (Database Management)
-- A **database-driven application** that efficiently handles restaurant operations such as order processing and inventory management. Optimized **SQLite indexing** ensures **fast query execution and scalability**.
+- A **database-driven application** that efficiently handles restaurant operations such as inventory management order processing. Optimized **SQLite indexing** ensures **fast query execution and scalability**.
 
 ### 🚀 Space Shooter Game
 
