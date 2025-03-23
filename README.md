@@ -71,7 +71,7 @@ Here are some of the key projects I have worked on, showcasing my expertise in d
 
 ## 📫 Connect with Me
 
-📌 **LinkedIn:** [LinkedIn](www.linkedin.com/in/jeyashree-muthukumaran)\
+📌 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jeyashree-muthukumaran)\
 📌 **GitHub:** [GitHub](https://github.com/Glueymetal)
 
 Let's **collaborate and innovate together!** 🚀
